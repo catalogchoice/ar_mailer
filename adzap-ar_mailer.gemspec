@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{adzap-ar_mailer}
-  s.version = "2.1.5"
+  s.name = %q{catalogchoice-ar_mailer}
+  s.version = "2.1.6"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Eric Hodel", "Adam Meehan"]
