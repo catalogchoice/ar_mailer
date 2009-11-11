@@ -14,9 +14,11 @@ and for forked additions
 
 http://github.com/adzap/ar_mailer/wikis
 
+(Forked from adzap's ar_mailer repository)
+
 Bugs:
 
-http://adzap.lighthouseapp.com/projects/26997-ar_mailer
+None
 
 == About
 
